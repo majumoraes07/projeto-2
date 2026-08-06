@@ -16,11 +16,13 @@ main {
     color: rgb(0, 0, 0);
     text-align: center;
     /*alinhamento o texto*/
-    max: width 800px;
+    max width:800px;
     /*largura maxima*/
     margin: 0 auto;
     /*espaçamento externo ao redor do elemento*/
-
+    padding: 16px;/*espaçamento interno*/
+display: flex;/*habilita o uso de flex box*/
+:
 }
 
 footer {
