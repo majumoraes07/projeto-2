@@ -3,8 +3,8 @@ header {
     /*cor de fundo*/
     color: rgb(0, 6, 14);
     /*cor da fonte*/
-    text-align: center;
-    max-width: 800px;
+    text-align: center;/*alinhar o texto ao centro*/
+    max-width: 800px;/*largura max*/
     margin: 0 auto;
     padding: 16px;
     /*espaçamento interno*/
@@ -27,3 +27,13 @@ footer {
     background-color: rgb(194, 219, 255);
     color: rgb(19, 0, 37);
 }
+img{
+width: 80px;/*largura*/
+height: 80px;/*altura*/
+
+
+}
+
+
+
+
