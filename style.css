@@ -13,6 +13,7 @@ header {
   
 
  
+ 
 
 main {
     background-color: rgb(156, 224, 255);
@@ -33,8 +34,8 @@ footer {
     color: rgb(19, 0, 37);
 }
 img{
-width: 40px;/*largura*/
-height: 40px;/*altura*/
+width: 50px;/*largura*/
+height: 50px;/*altura*/
 
 
 }
