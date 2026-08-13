@@ -7,9 +7,10 @@ header {
     max-width: 800px;/*largura max*/
     margin: 0 auto;
     padding: 16px;
-    /*espaçamento interno*/
+    /*espacamento interno*/
 
 }
+ 
  
 
 main {
@@ -20,8 +21,8 @@ main {
     max-width: 800px;
     /*largura maxima*/
     margin: 0 auto;
-    /*espaçamento externo ao redor do elemento*/
-    padding: 16px;/*espaçamento interno*/
+    /*espacamento externo ao redor do elemento*/
+    padding: 16px;/*espacamento interno*/
 display: flex;/*habilita o uso de flex box*/
 
 }
