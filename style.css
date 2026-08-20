@@ -35,6 +35,8 @@ footer {
     color: rgb(19, 0, 37);
     max-width: 800px;/*largura max*/
     display: flex;/*habilita o uso de flex box*/
+    margin: 0 auto; /* espaçamento externo ao redor do elemento*/
+
 }
 img{
 width: 50px;/*largura*/
